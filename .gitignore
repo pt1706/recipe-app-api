@@ -130,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.mypy_cache/
+/.mypy_cache/.gitignore
+/.mypy_cache/CACHEDIR.TAG
