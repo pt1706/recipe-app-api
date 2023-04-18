@@ -1,2 +1,3 @@
 # recipe-app-api
-Receipe API project
+udemy course:
+https://www.udemy.com/course/django-python-advanced/
